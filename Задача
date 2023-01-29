@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+ <Группа свойств>
+ <OutputType>Exe</OutputType>
+ <targetFramework> net6.0</targetFramework>
+ <ImplicitUsings>включить</ImplicitUsings>
+ <Nullable>включить</Nullable>
+ </PropertyGroup>
+
+</Проект>
